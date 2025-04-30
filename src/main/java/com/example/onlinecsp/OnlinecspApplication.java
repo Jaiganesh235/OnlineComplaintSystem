@@ -4,10 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OnlinecspApplication {
+public class OnlineCspApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(OnlinecspApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(OnlineCspApplication.class, args);
+    }
 }
